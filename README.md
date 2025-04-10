@@ -1,2 +1,3 @@
-# Prepcourse-Henry
-Este es un repositorio de prueba del módulo2 del prepcourse de Henry 
+Lucía Alonso
+
+Este es un proyecto de prueba de cómo crear un repositorio y clonarlo de manera local en mi computadora
